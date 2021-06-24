@@ -52,5 +52,6 @@ public class Main {
         } else if(compareGPAToStudent2 == 0){
             System.out.println("is even");
         }
+        System.out.println("");
     }
 }
